@@ -12,6 +12,6 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
 export default defineConfig({
-  base: "/Visar Society/", // Replace with your GitHub repo name
+  base: "/Visar-Society-Showcase/", //repo name
   plugins: [react()],
 });
